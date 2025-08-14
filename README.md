@@ -1,3 +1,5 @@
+# نرم افزار اختصاصی سینگ باکس + اجرای کانفیگهای سینگ باکس در ویندوز مک و اندروید  
+
 <div align="center">
   <img src="build/appicon.png" alt="GUI.for.SingBox" width="200">
   <h1>GUI.for.SingBox</h1>
