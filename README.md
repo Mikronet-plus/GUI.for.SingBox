@@ -3,7 +3,8 @@
   <h1>GUI.for.SingBox</h1>
   <p>A GUI program developed by vue3 + wails.</p>
 </div>
-آموزش نصب از طریق یوتیوب  
+آموزش نصب در کانال یوتیوب ما  
+
 https://www.youtube.com/watch?v=v6_z4BUUZSs  
 ## Preview
 
