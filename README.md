@@ -3,7 +3,8 @@
   <h1>GUI.for.SingBox</h1>
   <p>A GUI program developed by vue3 + wails.</p>
 </div>
-
+آموزش نصب از طریق یوتیوب  
+https://www.youtube.com/watch?v=v6_z4BUUZSs  
 ## Preview
 
 Take a look at the live version here: 👉 <a href="https://gui-for-cores.github.io/guide/gfs/" target="_blank">Live Demo</a>
